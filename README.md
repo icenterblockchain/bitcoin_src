@@ -30,7 +30,7 @@ Git使用说明
  git checkout -b hejianhui
  ```
  3. 提交代码或者文档
-    commit信息请注明完成的是哪个问题，例如"第一次作业-比特币结构相关代码"
+    commit信息请注明完成的是哪个问题，例如"强化练习作业作业-比特币结构相关代码"
  提交流程
  ```bash
  git add xxx
